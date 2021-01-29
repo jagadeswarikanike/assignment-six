@@ -1,0 +1,42 @@
+.register-container {
+    text-align: center;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.W735TOB8NuKKzP8oQO7hywHaDe&pid=Api&P=0&w=387&h=182");
+    background-size: cover;
+    height: 100vh;
+}
+.register-heading {
+    color: rgb(19, 18, 18);
+    font-size: 28px;
+    font-family: "sans-serif";
+}
+.input-style{
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: 600;
+    color: rgb(20, 20, 20);
+}
+.error-message {
+    color: rgb(179, 28, 28);
+    font-size: 15px;
+    font-family: "Roboto";
+}
+.fb-icon {
+    color: rgb(47, 47, 245);
+    font-size: 40px;
+    margin: 10px;
+}
+.mail-icon {
+    color: rgb(245, 66, 66);
+    font-size: 40px;
+    margin: 10px;
+}
+.input-icons i { 
+    position: absolute; 
+} 
+.icon { 
+    padding: 15px; 
+    color: rgb(5, 5, 5); 
+    min-width: 200px; 
+    text-align: right; 
+} 
+ 
